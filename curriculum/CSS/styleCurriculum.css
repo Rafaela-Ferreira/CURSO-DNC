@@ -7,7 +7,7 @@
 }
 #nameAndTitle{
     background-color: white;
-    width: 500px;
+    width: 480px;
     margin: 0 auto;
     text-align: center;
 }
@@ -26,7 +26,7 @@ h1,h2, h3{
 }
 #container{
     display: grid;
-    grid-template-columns: 30% auto;
+    grid-template-columns: 50% auto;
     grid-column-gap: 20px;
 }
 #sidebar, #content{
